@@ -27,5 +27,6 @@ From a real-world perspective, this system can be applied in various domains, in
 One of the major challenges in building such a system is ensuring robustness in noisy environments and handling diverse accents or dialects. To overcome these issues, modern systems leverage deep learning architectures trained on large and diverse datasets. Some advanced versions of the project can also support multilingual recognition, real-time transcription, and speech command classification.
 
 In conclusion, the Speech Recognition System project demonstrates the integration of audio signal processing, natural language processing, and machine learning to build an intelligent system capable of understanding human speech. It not only showcases technical skills in AI and software development but also has meaningful applications in improving accessibility, automation, and user interaction across industries.
-* Output * :
-  
+* Output :
+![Image](https://github.com/user-attachments/assets/8f189f3b-e017-4838-ac9b-64cde13db9bb)
+
